@@ -1,4 +1,4 @@
-# ArthSakhi 🌱
+# ArthSakhi 
 
 ArthSakhi is a gamified, voice-first financial learning platform designed for women in Bharat.  
 It helps users build practical financial confidence by learning through safe, interactive simulations instead of lectures or quizzes.
@@ -25,12 +25,12 @@ This creates a zero-risk environment to practice real-life financial choices and
 - Text-to-Speech (TTS)
 - Firebase (optional, for sync & analytics)
 
-## 📱 Project Status
+## Project Status
 This project is developed as a **hackathon prototype (MVP)**.  
 
-## 👥 Team
+## Team
 - ByteShift
 
-## 📌 Note
+## Note
 ArthSakhi does not use real bank accounts or UPI APIs.  
 All financial interactions are simulated for learning purposes only.
