@@ -1,16 +1,36 @@
-# arthsakhi
+# ArthSakhi 🌱
 
-A new Flutter project.
+ArthSakhi is a gamified, voice-first financial learning platform designed for women in Bharat.  
+It helps users build practical financial confidence by learning through safe, interactive simulations instead of lectures or quizzes.
 
-## Getting Started
+## Problem Statement
+Despite many awareness programs, women often lack hands-on experience in managing money.  
+Fear of making mistakes and low digital trust prevent confident use of tools like UPI, banking, savings, and insurance.
 
-This project is a starting point for a Flutter application.
+## Solution
+ArthSakhi uses a “Family Farm” simulation game where users manage a virtual household or small business and make everyday financial decisions using virtual money.  
+This creates a zero-risk environment to practice real-life financial choices and understand their long-term impact.
 
-A few resources to get you started if this is your first Flutter project:
+## Key Features
+- Family Farm Simulator for savings, loans, insurance, and budgeting  
+- Safe UPI practice using virtual money (no real transactions)  
+- Voice-first experience with local language support  
+- Story-based scenarios showing long-term outcomes  
+- Gamified learning with points and progress tracking  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
+- Flutter (Android)
+- Dart
+- Local Storage (Hive / SQLite)
+- Text-to-Speech (TTS)
+- Firebase (optional, for sync & analytics)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Project Status
+This project is developed as a **hackathon prototype (MVP)**.  
+
+## 👥 Team
+- ByteShift
+
+## 📌 Note
+ArthSakhi does not use real bank accounts or UPI APIs.  
+All financial interactions are simulated for learning purposes only.
